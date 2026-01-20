@@ -1,0 +1,7 @@
+[versions]
+compileSdk = "36"
+
+ndkVersion = "29.0.14206865"
+buildToolsVersion = "36.1.0"
+cmakeVersion = "4.1.2"
+agpVersion = "9.0.0"
